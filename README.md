@@ -1,2 +1,2 @@
-# OOP-Project-Sem-2-
-Object Oriented Programming
+# Database Project
+DBS Project Sem 2
